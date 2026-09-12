@@ -124,7 +124,7 @@ dashboard/
 
 - [Python Analysis Notebook](python/ecommerce_sales_analysis.ipynb)
 - [SQL Analysis](sql/sales_analysis.sql)
-- [Power BI Dashboard](dashboard/ecommerce_sales_dashboard.pbix)
+- [Power BI Dashboard](dashboard/dashboard/ecommerce_sales_dashboard.pbix)
 - [Cleaned Dataset](data/online_retail_cleaned.csv.gz)
 - [Original Dataset](data/online+retail.zip)
 
