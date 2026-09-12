@@ -103,7 +103,6 @@ The analysis helps identify:
 - Monthly sales trends
 - High-value customers
 - Overall business performance
-
 ## Project Structure
 
 ```text
@@ -119,6 +118,7 @@ dashboard/
 │   └── sales_analysis.sql
 ├── README.md
 └── .gitignore
+```
 
 ## Project Files
 
@@ -127,3 +127,7 @@ dashboard/
 - [Power BI Dashboard](dashboard/ecommerce_sales_dashboard.pbix)
 - [Cleaned Dataset](data/online_retail_cleaned.csv.gz)
 - [Original Dataset](data/online+retail.zip)
+
+## Conclusion
+
+This project demonstrates an end-to-end e-commerce sales analysis workflow using Python, SQL, and Power BI, from raw data cleaning to business intelligence and visualization.
